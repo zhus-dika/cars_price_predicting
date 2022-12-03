@@ -1,0 +1,32 @@
+[
+    {
+      "name": "Mahindra Xylo E4 BS IV",
+      "year": 2010,
+      "selling_price": 92000,
+      "km_driven": 100000,
+      "fuel": "Petrol",
+      "seller_type": "Individual",
+      "transmission": "Manual",
+      "owner": "Second Owner",
+      "mileage": "17.3 kmpl",
+      "engine": "993 CC",
+      "max_power": "60 bhp",
+      "torque": "78Nm@ 4500rpm",
+      "seats": 5.0
+    },
+    {
+      "name": "Ford Figo Diesel Celebration Edition",
+      "year": 2013,
+      "selling_price": 200000,
+      "km_driven": 169000,
+      "fuel": "Diesel",
+      "seller_type": "Individual",
+      "transmission": "Manual",
+      "owner": "First Owner",
+      "mileage": "20.0 kmpl",
+      "engine": "1399 CC",
+      "max_power": "68.1 bhp",
+      "torque": "160Nm@ 2000rpm",
+      "seats": 5.0
+    }
+]
